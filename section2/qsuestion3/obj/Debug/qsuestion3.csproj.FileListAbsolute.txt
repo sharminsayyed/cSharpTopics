@@ -1,0 +1,7 @@
+F:\Sharmin\c# course program\section2\qsuestion3\bin\Debug\qsuestion3.exe.config
+F:\Sharmin\c# course program\section2\qsuestion3\bin\Debug\qsuestion3.exe
+F:\Sharmin\c# course program\section2\qsuestion3\bin\Debug\qsuestion3.pdb
+F:\Sharmin\c# course program\section2\qsuestion3\obj\Debug\qsuestion3.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section2\qsuestion3\obj\Debug\qsuestion3.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section2\qsuestion3\obj\Debug\qsuestion3.exe
+F:\Sharmin\c# course program\section2\qsuestion3\obj\Debug\qsuestion3.pdb

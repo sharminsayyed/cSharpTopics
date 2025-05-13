@@ -1,0 +1,7 @@
+F:\Sharmin\c# course program\section2\questions\bin\Debug\questions.exe.config
+F:\Sharmin\c# course program\section2\questions\bin\Debug\questions.exe
+F:\Sharmin\c# course program\section2\questions\bin\Debug\questions.pdb
+F:\Sharmin\c# course program\section2\questions\obj\Debug\questions.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section2\questions\obj\Debug\questions.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section2\questions\obj\Debug\questions.exe
+F:\Sharmin\c# course program\section2\questions\obj\Debug\questions.pdb

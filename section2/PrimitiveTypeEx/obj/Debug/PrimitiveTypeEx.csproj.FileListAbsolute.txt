@@ -1,0 +1,7 @@
+F:\Sharmin\c# course program\section2\PrimitiveTypeEx\bin\Debug\PrimitiveTypeEx.exe.config
+F:\Sharmin\c# course program\section2\PrimitiveTypeEx\bin\Debug\PrimitiveTypeEx.exe
+F:\Sharmin\c# course program\section2\PrimitiveTypeEx\bin\Debug\PrimitiveTypeEx.pdb
+F:\Sharmin\c# course program\section2\PrimitiveTypeEx\obj\Debug\PrimitiveTypeEx.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section2\PrimitiveTypeEx\obj\Debug\PrimitiveTypeEx.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section2\PrimitiveTypeEx\obj\Debug\PrimitiveTypeEx.exe
+F:\Sharmin\c# course program\section2\PrimitiveTypeEx\obj\Debug\PrimitiveTypeEx.pdb

@@ -1,0 +1,7 @@
+F:\Sharmin\c# course program\section2\ConsoleClassEx\bin\Debug\ConsoleClassEx.exe.config
+F:\Sharmin\c# course program\section2\ConsoleClassEx\bin\Debug\ConsoleClassEx.exe
+F:\Sharmin\c# course program\section2\ConsoleClassEx\bin\Debug\ConsoleClassEx.pdb
+F:\Sharmin\c# course program\section2\ConsoleClassEx\obj\Debug\ConsoleClassEx.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section2\ConsoleClassEx\obj\Debug\ConsoleClassEx.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section2\ConsoleClassEx\obj\Debug\ConsoleClassEx.exe
+F:\Sharmin\c# course program\section2\ConsoleClassEx\obj\Debug\ConsoleClassEx.pdb

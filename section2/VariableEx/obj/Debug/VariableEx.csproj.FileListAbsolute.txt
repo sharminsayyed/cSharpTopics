@@ -1,0 +1,7 @@
+F:\Sharmin\c# course program\section2\VariableEx\bin\Debug\VariableEx.exe.config
+F:\Sharmin\c# course program\section2\VariableEx\bin\Debug\VariableEx.exe
+F:\Sharmin\c# course program\section2\VariableEx\bin\Debug\VariableEx.pdb
+F:\Sharmin\c# course program\section2\VariableEx\obj\Debug\VariableEx.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section2\VariableEx\obj\Debug\VariableEx.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section2\VariableEx\obj\Debug\VariableEx.exe
+F:\Sharmin\c# course program\section2\VariableEx\obj\Debug\VariableEx.pdb
