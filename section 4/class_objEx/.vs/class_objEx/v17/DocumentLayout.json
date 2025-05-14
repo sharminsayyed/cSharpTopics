@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Sharmin\\c# course program\\section 4\\class_objEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17000043-ED59-4327-9DD3-FF2ECCD24602}|class_objEx\\class_objEx.csproj|f:\\sharmin\\c# course program\\section 4\\class_objex\\class_objex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17000043-ED59-4327-9DD3-FF2ECCD24602}|class_objEx\\class_objEx.csproj|solutionrelative:class_objex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D3AC4F-16E1-410C-96C5-434AD2CB98E1}|classLib1\\classLib1.csproj|f:\\sharmin\\c# course program\\section 4\\class_objex\\classlib1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D3AC4F-16E1-410C-96C5-434AD2CB98E1}|classLib1\\classLib1.csproj|solutionrelative:classlib1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section 4\\class_objEx\\classLib1\\Program.cs",
+              "RelativeDocumentMoniker": "classLib1\\Program.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section 4\\class_objEx\\classLib1\\Program.cs",
+              "RelativeToolTip": "classLib1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T01:33:59.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section 4\\class_objEx\\class_objEx\\Program.cs",
+              "RelativeDocumentMoniker": "class_objEx\\Program.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section 4\\class_objEx\\class_objEx\\Program.cs",
+              "RelativeToolTip": "class_objEx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:28:24.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
