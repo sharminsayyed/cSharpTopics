@@ -1,0 +1,7 @@
+F:\Sharmin\c# course program\section 4\quetion1\classlibrary1\obj\Debug\classlibrary1.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section 4\quetion1\classlibrary1\obj\Debug\classlibrary1.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section 4\quetion1\classlibrary1\bin\Debug\classlibrary1.exe.config
+F:\Sharmin\c# course program\section 4\quetion1\classlibrary1\bin\Debug\classlibrary1.exe
+F:\Sharmin\c# course program\section 4\quetion1\classlibrary1\bin\Debug\classlibrary1.pdb
+F:\Sharmin\c# course program\section 4\quetion1\classlibrary1\obj\Debug\classlibrary1.exe
+F:\Sharmin\c# course program\section 4\quetion1\classlibrary1\obj\Debug\classlibrary1.pdb
