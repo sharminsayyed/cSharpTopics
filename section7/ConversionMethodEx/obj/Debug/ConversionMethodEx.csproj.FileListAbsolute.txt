@@ -1,0 +1,7 @@
+F:\Sharmin\c# course program\section7\ConversionMethodEx\bin\Debug\ConversionMethodEx.exe.config
+F:\Sharmin\c# course program\section7\ConversionMethodEx\bin\Debug\ConversionMethodEx.exe
+F:\Sharmin\c# course program\section7\ConversionMethodEx\bin\Debug\ConversionMethodEx.pdb
+F:\Sharmin\c# course program\section7\ConversionMethodEx\obj\Debug\ConversionMethodEx.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section7\ConversionMethodEx\obj\Debug\ConversionMethodEx.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section7\ConversionMethodEx\obj\Debug\ConversionMethodEx.exe
+F:\Sharmin\c# course program\section7\ConversionMethodEx\obj\Debug\ConversionMethodEx.pdb
