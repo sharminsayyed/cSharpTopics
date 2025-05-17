@@ -1,0 +1,7 @@
+F:\Sharmin\c# course program\section6\paramsEx\bin\Debug\paramsEx.exe.config
+F:\Sharmin\c# course program\section6\paramsEx\bin\Debug\paramsEx.exe
+F:\Sharmin\c# course program\section6\paramsEx\bin\Debug\paramsEx.pdb
+F:\Sharmin\c# course program\section6\paramsEx\obj\Debug\paramsEx.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section6\paramsEx\obj\Debug\paramsEx.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section6\paramsEx\obj\Debug\paramsEx.exe
+F:\Sharmin\c# course program\section6\paramsEx\obj\Debug\paramsEx.pdb

@@ -1,0 +1,7 @@
+F:\Sharmin\c# course program\section6\recursionEx\bin\Debug\recursionEx.exe.config
+F:\Sharmin\c# course program\section6\recursionEx\bin\Debug\recursionEx.exe
+F:\Sharmin\c# course program\section6\recursionEx\bin\Debug\recursionEx.pdb
+F:\Sharmin\c# course program\section6\recursionEx\obj\Debug\recursionEx.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section6\recursionEx\obj\Debug\recursionEx.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section6\recursionEx\obj\Debug\recursionEx.exe
+F:\Sharmin\c# course program\section6\recursionEx\obj\Debug\recursionEx.pdb

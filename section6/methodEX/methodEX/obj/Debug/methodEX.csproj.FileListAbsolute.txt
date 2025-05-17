@@ -1,0 +1,11 @@
+F:\Sharmin\c# course program\section6\methodEX\methodEX\bin\Debug\methodEX.exe.config
+F:\Sharmin\c# course program\section6\methodEX\methodEX\bin\Debug\methodEX.exe
+F:\Sharmin\c# course program\section6\methodEX\methodEX\bin\Debug\methodEX.pdb
+F:\Sharmin\c# course program\section6\methodEX\methodEX\bin\Debug\classLibrary1.exe
+F:\Sharmin\c# course program\section6\methodEX\methodEX\bin\Debug\classLibrary1.pdb
+F:\Sharmin\c# course program\section6\methodEX\methodEX\bin\Debug\classLibrary1.exe.config
+F:\Sharmin\c# course program\section6\methodEX\methodEX\obj\Debug\methodEX.csproj.AssemblyReference.cache
+F:\Sharmin\c# course program\section6\methodEX\methodEX\obj\Debug\methodEX.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section6\methodEX\methodEX\obj\Debug\methodEX.csproj.Up2Date
+F:\Sharmin\c# course program\section6\methodEX\methodEX\obj\Debug\methodEX.exe
+F:\Sharmin\c# course program\section6\methodEX\methodEX\obj\Debug\methodEX.pdb
