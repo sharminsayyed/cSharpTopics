@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexersEx", "IndexersEx.csproj", "{57EA9CD9-F206-4A5A-AD27-A77B74169AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "..\ClassLibrary2\ClassLibrary2.csproj", "{107293F6-0921-45C2-BB24-D3EA3E9BB68C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57EA9CD9-F206-4A5A-AD27-A77B74169AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EA9CD9-F206-4A5A-AD27-A77B74169AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EA9CD9-F206-4A5A-AD27-A77B74169AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EA9CD9-F206-4A5A-AD27-A77B74169AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107293F6-0921-45C2-BB24-D3EA3E9BB68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107293F6-0921-45C2-BB24-D3EA3E9BB68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107293F6-0921-45C2-BB24-D3EA3E9BB68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107293F6-0921-45C2-BB24-D3EA3E9BB68C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAECD5C6-64C2-42BA-9C3D-7E2F05D3C952}
+	EndGlobalSection
+EndGlobal
