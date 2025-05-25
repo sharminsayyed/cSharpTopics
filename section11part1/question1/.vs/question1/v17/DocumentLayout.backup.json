@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Sharmin\\c# course program\\section11\\question1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB1AA42-C308-46EB-9A74-378FD8E1E924}|question1.csproj|f:\\sharmin\\c# course program\\section11\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB1AA42-C308-46EB-9A74-378FD8E1E924}|question1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2E9B5A-D6BF-4221-98F7-C9F05DD9DE09}|..\\ClassLibrary2\\ClassLibrary2.csproj|f:\\sharmin\\c# course program\\section11\\classlibrary2\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2E9B5A-D6BF-4221-98F7-C9F05DD9DE09}|..\\ClassLibrary2\\ClassLibrary2.csproj|f:\\sharmin\\c# course program\\section11\\classlibrary2\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2E9B5A-D6BF-4221-98F7-C9F05DD9DE09}|..\\ClassLibrary2\\ClassLibrary2.csproj|f:\\sharmin\\c# course program\\section11\\classlibrary2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2E9B5A-D6BF-4221-98F7-C9F05DD9DE09}|..\\ClassLibrary2\\ClassLibrary2.csproj|f:\\sharmin\\c# course program\\section11\\classlibrary2\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2E9B5A-D6BF-4221-98F7-C9F05DD9DE09}|..\\ClassLibrary2\\ClassLibrary2.csproj|f:\\sharmin\\c# course program\\section11\\classlibrary2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Character.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Character.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Character.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Character.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:14:04.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Warrior.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Warrior.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Warrior.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:12:09.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Mage.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Mage.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Mage.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Mage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:12:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dragon.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Dragon.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Dragon.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Dragon.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Dragon.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywCwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:12:38.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Game.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Game.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary2\\Game.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:12:55.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\question1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section11\\question1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:10:42.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

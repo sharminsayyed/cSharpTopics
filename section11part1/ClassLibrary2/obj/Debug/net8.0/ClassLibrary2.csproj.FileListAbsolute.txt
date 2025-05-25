@@ -1,0 +1,11 @@
+F:\Sharmin\c# course program\section11\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.deps.json
+F:\Sharmin\c# course program\section11\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.dll
+F:\Sharmin\c# course program\section11\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.pdb
+F:\Sharmin\c# course program\section11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sharmin\c# course program\section11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfoInputs.cache
+F:\Sharmin\c# course program\section11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfo.cs
+F:\Sharmin\c# course program\section11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+F:\Sharmin\c# course program\section11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.dll
+F:\Sharmin\c# course program\section11\ClassLibrary2\obj\Debug\net8.0\refint\ClassLibrary2.dll
+F:\Sharmin\c# course program\section11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.pdb
+F:\Sharmin\c# course program\section11\ClassLibrary2\obj\Debug\net8.0\ref\ClassLibrary2.dll
