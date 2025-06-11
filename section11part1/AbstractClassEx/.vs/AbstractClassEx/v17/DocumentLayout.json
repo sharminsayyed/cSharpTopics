@@ -1,19 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Sharmin\\c# course program\\section11\\AbstractClassEx\\",
+  "WorkspaceRootPath": "F:\\Sharmin\\c# course program\\section11part1\\AbstractClassEx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C0CB193-4621-464F-9866-290FD2C1FA7C}|..\\ClassLibrary1\\ClassLibrary1.csproj|f:\\sharmin\\c# course program\\section11\\classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C0CB193-4621-464F-9866-290FD2C1FA7C}|..\\ClassLibrary1\\ClassLibrary1.csproj|f:\\sharmin\\c# course program\\section11\\classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07784194-B3AA-4796-B9C3-F2A2E7C75273}|AbstractClassEx.csproj|f:\\sharmin\\c# course program\\section11\\abstractclassex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07784194-B3AA-4796-B9C3-F2A2E7C75273}|AbstractClassEx.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C0CB193-4621-464F-9866-290FD2C1FA7C}|..\\ClassLibrary1\\ClassLibrary1.csproj|f:\\sharmin\\c# course program\\section11\\classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Sharmin\\c# course program\\section11part1\\AbstractClassEx\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,52 +30,47 @@
               "DocumentIndex": 0,
               "Title": "Manager.cs",
               "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Manager.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\..\\section11\\ClassLibrary1\\Manager.cs",
               "ToolTip": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Manager.cs",
-              "RelativeToolTip": "..\\ClassLibrary1\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\section11\\ClassLibrary1\\Manager.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:46:13.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T16:46:13.201Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Salesman.cs",
               "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Salesman.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Salesman.cs",
+              "RelativeDocumentMoniker": "..\\..\\section11\\ClassLibrary1\\Salesman.cs",
               "ToolTip": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Salesman.cs",
-              "RelativeToolTip": "..\\ClassLibrary1\\Salesman.cs",
+              "RelativeToolTip": "..\\..\\section11\\ClassLibrary1\\Salesman.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:56:20.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Employee.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Employee.cs",
-              "ToolTip": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Employee.cs",
-              "RelativeToolTip": "..\\ClassLibrary1\\Employee.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwB0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:56:16.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T15:56:20.107Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\..\\section11\\ClassLibrary1\\Employee.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section11\\ClassLibrary1\\Employee.cs",
+              "RelativeToolTip": "..\\..\\section11\\ClassLibrary1\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:56:16.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11\\AbstractClassEx\\Program.cs",
+              "DocumentMoniker": "F:\\Sharmin\\c# course program\\section11part1\\AbstractClassEx\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Sharmin\\c# course program\\section11\\AbstractClassEx\\Program.cs",
+              "ToolTip": "F:\\Sharmin\\c# course program\\section11part1\\AbstractClassEx\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:50:39.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T15:50:39.634Z"
             }
           ]
         }
