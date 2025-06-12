@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Sharmin\\cSharpTopics\\section11part2\\MultipleInheritanceEx.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4159EC4-AC88-4B20-9354-31C77D1BF07A}|MultipleInheritanceEx.cs.csproj|f:\\sharmin\\csharptopics\\section11part2\\multipleinheritanceex.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4159EC4-AC88-4B20-9354-31C77D1BF07A}|MultipleInheritanceEx.cs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3368DB-E6E7-4BCD-A72A-757F8C9CE6DF}|..\\ClassLibrary2\\ClassLibrary2.csproj|f:\\sharmin\\csharptopics\\section11part2\\classlibrary2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3368DB-E6E7-4BCD-A72A-757F8C9CE6DF}|..\\ClassLibrary2\\ClassLibrary2.csproj|f:\\sharmin\\csharptopics\\section11part2\\classlibrary2\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3368DB-E6E7-4BCD-A72A-757F8C9CE6DF}|..\\ClassLibrary2\\ClassLibrary2.csproj|f:\\sharmin\\csharptopics\\section11part2\\classlibrary2\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "F:\\Sharmin\\cSharpTopics\\section11part2\\ClassLibrary2\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Manager.cs",
+              "ToolTip": "F:\\Sharmin\\cSharpTopics\\section11part2\\ClassLibrary2\\Manager.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Manager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:50:09.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "F:\\Sharmin\\cSharpTopics\\section11part2\\ClassLibrary2\\IPerson.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\IPerson.cs",
+              "ToolTip": "F:\\Sharmin\\cSharpTopics\\section11part2\\ClassLibrary2\\IPerson.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:49:56.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "F:\\Sharmin\\cSharpTopics\\section11part2\\ClassLibrary2\\IEmployee.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\IEmployee.cs",
+              "ToolTip": "F:\\Sharmin\\cSharpTopics\\section11part2\\ClassLibrary2\\IEmployee.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:48:32.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Sharmin\\cSharpTopics\\section11part2\\MultipleInheritanceEx.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Sharmin\\cSharpTopics\\section11part2\\MultipleInheritanceEx.cs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA2wBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:47:57.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInheritanceEx.cs", "MultipleInheritanceEx.cs.csproj", "{D4159EC4-AC88-4B20-9354-31C77D1BF07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "..\ClassLibrary2\ClassLibrary2.csproj", "{8F3368DB-E6E7-4BCD-A72A-757F8C9CE6DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4159EC4-AC88-4B20-9354-31C77D1BF07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4159EC4-AC88-4B20-9354-31C77D1BF07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4159EC4-AC88-4B20-9354-31C77D1BF07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4159EC4-AC88-4B20-9354-31C77D1BF07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3368DB-E6E7-4BCD-A72A-757F8C9CE6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3368DB-E6E7-4BCD-A72A-757F8C9CE6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3368DB-E6E7-4BCD-A72A-757F8C9CE6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3368DB-E6E7-4BCD-A72A-757F8C9CE6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5EB32BD-B193-4FC5-B9E3-1A4E916DEA73}
+	EndGlobalSection
+EndGlobal
