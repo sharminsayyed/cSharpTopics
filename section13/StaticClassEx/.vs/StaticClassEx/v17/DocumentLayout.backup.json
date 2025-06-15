@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Sharmin\\cSharpTopics\\section13\\StaticClassEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB194565-20E7-423C-9513-A9988C48540B}|StaticClassEx.csproj|f:\\sharmin\\csharptopics\\section13\\staticclassex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB194565-20E7-423C-9513-A9988C48540B}|StaticClassEx.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2008CB41-4A1A-4672-B809-063BEC24BF09}|..\\ClassLibrary2\\ClassLibrary2.csproj|f:\\sharmin\\csharptopics\\section13\\classlibrary2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Sharmin\\cSharpTopics\\section13\\ClassLibrary2\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Class1.cs",
+              "ToolTip": "F:\\Sharmin\\cSharpTopics\\section13\\ClassLibrary2\\Class1.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:53:42.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Sharmin\\cSharpTopics\\section13\\StaticClassEx\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Sharmin\\cSharpTopics\\section13\\StaticClassEx\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:52:56.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
