@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReadOnlyStrycturesEx/1.0.0": {
+        "dependencies": {
+          "ClassLibrary3": "1.0.0"
+        },
+        "runtime": {
+          "ReadOnlyStrycturesEx.dll": {}
+        }
+      },
+      "ClassLibrary3/1.0.0": {
+        "runtime": {
+          "ClassLibrary3.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadOnlyStrycturesEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
