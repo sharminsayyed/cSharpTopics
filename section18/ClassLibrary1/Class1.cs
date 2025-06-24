@@ -1,4 +1,6 @@
-﻿namespace ClassLibrary1
+﻿
+// step 1 - create an actual class without the extension method 
+namespace ClassLibrary1
 {
     // target class 
     public class Product
