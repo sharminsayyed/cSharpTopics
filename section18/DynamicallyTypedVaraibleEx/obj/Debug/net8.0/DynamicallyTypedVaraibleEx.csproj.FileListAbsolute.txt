@@ -1,0 +1,15 @@
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\bin\Debug\net8.0\DynamicallyTypedVaraibleEx.exe
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\bin\Debug\net8.0\DynamicallyTypedVaraibleEx.deps.json
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\bin\Debug\net8.0\DynamicallyTypedVaraibleEx.runtimeconfig.json
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\bin\Debug\net8.0\DynamicallyTypedVaraibleEx.dll
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\bin\Debug\net8.0\DynamicallyTypedVaraibleEx.pdb
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\DynamicallyTypedVaraibleEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\DynamicallyTypedVaraibleEx.AssemblyInfoInputs.cache
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\DynamicallyTypedVaraibleEx.AssemblyInfo.cs
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\DynamicallyTypedVaraibleEx.csproj.CoreCompileInputs.cache
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\DynamicallyTypedVaraibleEx.sourcelink.json
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\DynamicallyTypedVaraibleEx.dll
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\refint\DynamicallyTypedVaraibleEx.dll
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\DynamicallyTypedVaraibleEx.pdb
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\DynamicallyTypedVaraibleEx.genruntimeconfig.cache
+F:\Sharmin\cSharpTopics\section18\DynamicallyTypedVaraibleEx\obj\Debug\net8.0\ref\DynamicallyTypedVaraibleEx.dll

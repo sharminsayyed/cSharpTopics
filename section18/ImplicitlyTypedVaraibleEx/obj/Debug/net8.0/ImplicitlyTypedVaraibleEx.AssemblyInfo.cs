@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImplicitlyTypedVaraibleEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd739ff0968e28a368040d919e022197588def7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24abee05388ffa18e27bc27662d9123aef296edb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImplicitlyTypedVaraibleEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImplicitlyTypedVaraibleEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
